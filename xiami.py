@@ -1,5 +1,4 @@
 # -*- coding: utf-8 -*-
-
 import urllib2,urllib
 import xml.dom.minidom
 import json,sys
